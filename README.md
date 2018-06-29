@@ -2,7 +2,7 @@
 
 # Silly Song App
 
-*Position user interface elements so they are displayed properly regardless the device's screen size.*
+*Learn to position user interface elements so they are displayed properly regardless the device's screen size.*
 
 ![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
 

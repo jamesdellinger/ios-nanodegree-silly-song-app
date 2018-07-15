@@ -9,7 +9,6 @@ This repository contains the Silly Song app project for the **Swift for Develope
 The Silly Song app lets the user enter their name, and the app then generates and displays a wacky set of song lyrics based on the user's name.
 
 ## Project Grading and Evaluation
-
 * [Project Review](https://github.com/jamesdellinger/ios-nanodegree-silly-song-app/blob/master/ios-nanodegree-silly-song-app-review.pdf)
 
 * [Project Grading Rubric](https://github.com/jamesdellinger/ios-nanodegree-silly-song-app/blob/master/silly-song-app-rubric.pdf)

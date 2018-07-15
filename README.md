@@ -4,7 +4,7 @@
 <img src="https://github.com/jamesdellinger/ios-nanodegree-silly-song-app/blob/master/iosndlogo.jpg" alt="iOS Developer Nanodegree logo" height="100" >
 
 ## Overview
-This repository contains the Silly Song app project for the Swift for Developers course in Udacity's iOS Nanodegree.
+This repository contains the Silly Song app project for the **Swift for Developers** course in Udacity's iOS Nanodegree.
 
 The Silly Song app lets the user enter their name, and the app then generates and displays a wacky set of song lyrics based on the user's name.
 
